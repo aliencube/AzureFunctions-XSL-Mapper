@@ -28,17 +28,17 @@ Use the following payload structure for request.
 {
   "inputXml": "<ESCAPED XML=\"STRING\" />",
   "mapper": {
-  	"directory": "[DIRECTORY NAME IN THE CONTAINER]",
-  	"name": "XSL_MAPPER_NAME.xsl"
+    "directory": "[DIRECTORY NAME IN THE CONTAINER]",
+    "name": "XSL_MAPPER_NAME.xsl"
   },
   "extensionObjects": [
-  	{
-  	  "directory": "[DIRECTORY NAME IN THE CONTAINER]",
-  	  "name": "LIBRARY.dll",
-  	  "namespace": "http://schemas.microsoft.com/BizTalk/2003/NAMESPACE",
-  	  "assemblyName": "Fully.Qualified.Assembly.Name, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d7e94ac1875c97e9",
-  	  "className": "Fully.Qualified.Class.Name"
-  	}
+    {
+      "directory": "[DIRECTORY NAME IN THE CONTAINER]",
+      "name": "LIBRARY.dll",
+      "namespace": "http://schemas.microsoft.com/BizTalk/2003/NAMESPACE",
+      "assemblyName": "Fully.Qualified.Assembly.Name, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d7e94ac1875c97e9",
+      "className": "Fully.Qualified.Class.Name"
+    }
   ]
 }
 ```
