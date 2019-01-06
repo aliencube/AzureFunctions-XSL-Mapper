@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+
+    "Containers__Mappers": "mappers",
+    "Containers__ExtensionObjects": "extensionobjects",
+
+    "EncodeBase64Output": true 
+  }
+}
