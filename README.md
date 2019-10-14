@@ -5,8 +5,12 @@ This is an XSL mapper written in Azure Functions as an alternative to Azure Inte
 
 ## More Readings ##
 
-* 한국어: TBD
-* English: TBD
+* 한국어
+  * [애저 펑션으로 통합 어카운트를 대체하는 XSL 매퍼 만들기](https://blog.aliencube.org/ko/2019/01/07/building-xsl-mapper-with-azure-functions/)
+  * [Fluent API를 사용한 Domain Specific Language (DSL) 첫걸음](https://blog.aliencube.org/ko/2019/01/11/domain-specific-language-with-fluent-api/)
+* English
+  * [Building XSL Mapper with Azure Functions](https://devkimchi.com/2019/01/07/building-xsl-mapper-with-azure-functions/)
+  * [Beginning Domain Specific Language with Fluent API for Azure Functions](https://devkimchi.com/2019/01/11/beginning-domain-specific-language-with-fluent-api-for-azure-functions/)
 
 
 ## Getting Started ##
